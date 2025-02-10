@@ -52,14 +52,14 @@ export default function Hero() {
         <canvas onResize={resizeCall} ref={canvasRef} className="relative top-0 left-0"> </canvas>
         <div className="flex flex-row items-center z-20 absolute top-0 left-0 w-full h-full p-8 bg-opacity-50 bg-slate-950 md:bg-opacity-100 md:bg-transparent md:bg-gradient-to-l md:via-90% md:via-slate-900 md:from-transparent md:to-slate-900">
             <div className="md:w-1/2 w-full">
-                <p className={`${jbm.className} text-slate-200 text-sm mb-1`}>05/04/2024</p>
+                <p className={`${jbm.className} text-slate-200 text-sm mb-1`}>April 2025</p>
                 <h1 className={`${jbm.className} text-6xl md:text-8xl font-bold mb-1`}>CInT</h1>
                 <p className="text-sm md:text-base text-amber-300 font-bold">Competitive Informatics Tournament</p>
                 <p className={`${jbm.className} text-slate-400 text-xs`}>Compete, Learn, and Win Prizes!</p>
                 <div className="flex flex-row mt-4 gap-2">
-                    {/* <button disabled={true} className={`${jbm.className} btn-primary`}>Register (Coming Soon...)</button> */}
-                    <a className={`${jbm.className} btn-primary max-w-60 w-full`} href="https://forms.gle/ctJPAKktFs2bPQYz5" target="_blank" rel="noopener noreferrer">Register</a>
-                    <a className={`${jbm.className} btn-secondary bg-blurple hover:bg-blurple-accent border-blurple hover:border-blurple-accent`} href="https://discord.gg/zBQa5MV9Vv" target="_blank" rel="noopener noreferrer">Discord</a>
+                    <button disabled={true} className={`${jbm.className} btn-primary`}>Register (Coming Soon...)</button>
+                    {/* <a className={`${jbm.className} btn-primary max-w-60 w-full`} href="link_here" target="_blank" rel="noopener noreferrer">Register</a>
+                    <a className={`${jbm.className} btn-secondary bg-blurple hover:bg-blurple-accent border-blurple hover:border-blurple-accent`} href="link_here" target="_blank" rel="noopener noreferrer">Discord</a> */}
                 </div>
             </div>
         </div>
