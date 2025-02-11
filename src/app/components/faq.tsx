@@ -12,44 +12,32 @@ export default function Faq() {
 
     let qas = [
         {
-            question: "What is Competitive Programming?",
-            answer: `Competitive programming is a mind sport in which participants try to program according to provided specifications. Essentially, it's a fun mixture of problem solving and programming!`
+            question: "Is CInT Beginner Friendly?",
+            answer: `CInT is beginner-friendly! All middle and high schoolers are welcome and encouraged to attend! However, if you’re interested in competing for a prize, you should have some understanding of Java, C++, or Python.`
         },
         {
-            question: "What programming languages do I need to know?",
-            answer: `None, anybody can attend our tournament to learn more about programming! However, if you are interested in competing, any basic understanding of a programming language such as Java, C++, or Python would do!`
+            question: "What is competitive programming?",
+            answer: `Competitive programming is an academic sport where competitors brainstorm/implement correct and efficient solutions to given problems. At CInT, we offer a variety of problems for all skill levels, ranging from simple addition to USACO Gold+ difficulty!`
         },
         {
-            question: "What do I need for this tournament?",
-            answer: `Attending this event is completely free, and all you need is a computer (Chromebook can work too)`
+            question: "What will CInT be like?",
+            answer: `At CInT, you will be given a set of problems to solve, with a chance to win cool tech prizes! Scoring is primarily decided by number of problems solved, and ties are broken by sum of submission times. If this is confusing, feel free to contact us with questions.`
         },
         {
-            question: "Can I attend?",
-            answer: "Of course you can! You have to be in Middle or High School to be eligible for prizes though."
+            question: "What should I bring?",
+            answer: "While admission is free, you should bring a computer and a charger to CInT."
         },
         {
             question: "Is food provided?",
-            answer: "YES! We will have FREE FOOD!"
+            answer: "Yes! We will serve pizza, drinks, and plenty of other treats!"
         },
         {
-            question: "What kind of prizes are there?",
-            answer: `There will be (amazing) prizes thanks to our sponsors, but the specific content is top secret! Come find out on the day of!`
+            question: "How will teams be structured?",
+            answer: `Team size can be anywhere from 1-4 people. In order to form teams, you can talk to friends beforehand or meet like-minded peers on competition day!`
         },
         {
-            question: "How difficult will the problems be?",
-            answer: "Difficulty is subjective, but the problems will range from very easy problems that beginners can solve to extremely difficult USACO Gold level problems!"
-        },
-        {
-            question: "Can I participate by myself?",
-            answer: `For sure! If you are looking for a team, you can try to contact other programmers in our Discord server or try to find some teammates on the day of. Please note that teams can only have up to four members!`
-        },
-        {
-            question: "Can I choose my teammates?",
-            answer: `Yes! We will provide 30 minutes after the Guest Speaker Workshop for students to form teams. You can talk to friends beforehand to form teams, or meet new people at CInT to team with. We will provide instructions on how to register your team into our own website on the day of!`
-        },
-        {
-            question: "How will submissions be graded?",
-            answer: `We will be using our own website this year to grade submissions. Further instructions will be given during the Opening Ceremony!`
+            question: "Can we use online tools during the contest?",
+            answer: "You may use resources such as W3Schools, StackOverflow, or other online forums for syntax purposes. However, participants may NOT plagiarize code, copy projects, or use AI tools (including, but not limited to ChatGPT, Google Gemini, GitHub Copilot, etc) to generate code. Usage of AI will be an automatic disqualification from CInT."
         }
     ] as QuestionAnswer[]
 

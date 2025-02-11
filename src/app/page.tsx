@@ -12,7 +12,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col bg-black">
       <Hero></Hero>
       <About></About>
-      {/* <Faq></Faq> */}
+      <Faq></Faq>
       {/* <Prizes></Prizes> */}
       {/* <Schedule></Schedule> */}
       {/* <Sponsors></Sponsors> */}
