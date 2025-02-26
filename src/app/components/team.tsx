@@ -6,7 +6,7 @@ export default function Team() {
     
     const executive = ["Aryan Sharma", "Jaden Li", "Victor Liu", "Joshua Oh", "Rana Cherukuri", "Lakshith Senthil", "Daud Idrees"];
 
-   const regular = ["Albert Cao", "Aman Alamasety", "Barry Chen", "Ethan Burgoon", "Evan Luo", "Hamza Nasher-Alneam", "Kevin Yue", "Oliver Leung", "Natasha Green", "Taha Ahmed", "Zak Mazerski"];    
+   const regular = ["Albert Cao", "Aman Alamasety", "Barry Chen", "Ethan Burgoon", "Evan Luo", "Hamza Nasher-Alneam", "Kevin Yue", "Kyra Leung", "Natasha Green", "Taha Ahmed", "Zak Mazerski"];    
 
     return <div className='flex flex-col md:flex-row bg-gray-900 p-4 pt-16 md:p-8 gap-9 md:gap-9 items-top md:pt-20'>
         <div className='grow border-b-amber-300 border-b-2'>
