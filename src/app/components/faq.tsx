@@ -33,7 +33,7 @@ export default function Faq() {
         },
         {
             question: "How will teams be structured?",
-            answer: `Team size can be anywhere from 1-4 people. In order to form teams, you can talk to friends beforehand or meet like-minded peers on competition day!`
+            answer: `Team size can be anywhere from 1-3 people. In order to form teams, you can talk to friends beforehand or meet like-minded peers on competition day!`
         },
         {
             question: "Can we use online tools during the contest?",
