@@ -57,9 +57,8 @@ export default function Hero() {
                 <p className="text-sm md:text-base text-amber-300 font-bold">Competitive Informatics Tournament</p>
                 <p className={`${jbm.className} text-slate-400 text-xs`}>Compete, Learn, and Win Prizes!</p>
                 <div className="flex flex-row mt-4 gap-2">
-                    <button disabled={true} className={`${jbm.className} btn-primary`}>Register (Coming Soon...)</button>
-                    {/* <a className={`${jbm.className} btn-primary max-w-60 w-full`} href="link_here" target="_blank" rel="noopener noreferrer">Register</a>
-                    <a className={`${jbm.className} btn-secondary bg-blurple hover:bg-blurple-accent border-blurple hover:border-blurple-accent`} href="link_here" target="_blank" rel="noopener noreferrer">Discord</a> */}
+                    <a className={`${jbm.className} btn-primary max-w-60 w-full`} href="https://forms.gle/KPW4AHFq1STSP8ES8" target="_blank" rel="noopener noreferrer">Register</a>
+                    <a className={`${jbm.className} btn-secondary bg-blurple hover:bg-blurple-accent border-blurple hover:border-blurple-accent`} href="https://discord.gg/awd8ScmDaW" target="_blank" rel="noopener noreferrer">Discord</a>
                 </div>
             </div>
         </div>

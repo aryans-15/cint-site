@@ -8,8 +8,7 @@ export default function NavBar() {
             <span className={`${jbm.className} text-amber-300 text-2xl font-bold`}> CInT </span>
             <div className="flex-1"></div>
             <div className="flex flex-row gap-2 items-center text-sm">
-                <button disabled={true} className={`${jbm.className} btn-primary`}>Register</button>
-                {/* <a className={`${jbm.className} btn-primary text-sm`} href="link_here" target="_blank" rel="noopener noreferrer">Register</a> */}
+                <a className={`${jbm.className} btn-primary text-sm`} href="https://forms.gle/KPW4AHFq1STSP8ES8" target="_blank" rel="noopener noreferrer">Register</a>
             </div>
         </div>
 
