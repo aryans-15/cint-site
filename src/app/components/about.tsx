@@ -16,8 +16,11 @@ export default function About() {
             </p>
             <h1 className={`${jbm.className} text-amber-300 font-bold text-xl mt-4`}>Date & Location</h1>
             <p>
-                This year, CInT will be held on May 4, 2025, at the Elkridge Library 
+                This year, CInT will be held on May 4, 2025, at the{' '}
+                <b>Elkridge Library</b>{' '}
                 (6540 Washington Blvd, Elkridge, MD 21075) from 1:30 PM to 4:30 PM.
+                Please note that this is a different location from previous years.
+                <br/><br/>
                 More info will be coming soon; keep an eye on this site!
             </p>
             <h1 className={`${jbm.className} text-amber-300 font-bold text-xl mt-4`}>Contest Rules</h1>
