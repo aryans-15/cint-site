@@ -52,7 +52,7 @@ export default function Hero() {
         <canvas onResize={resizeCall} ref={canvasRef} className="relative top-0 left-0"> </canvas>
         <div className="flex flex-row items-center z-20 absolute top-0 left-0 w-full h-full p-8 bg-opacity-50 bg-slate-950 md:bg-opacity-100 md:bg-transparent md:bg-gradient-to-l md:via-90% md:via-slate-900 md:from-transparent md:to-slate-900">
             <div className="md:w-1/2 w-full">
-                <p className={`${jbm.className} text-slate-200 text-sm mb-1`}>April 2025</p>
+                <p className={`${jbm.className} text-slate-200 text-sm mb-1`}>May 4th, 2025</p>
                 <h1 className={`${jbm.className} text-6xl md:text-8xl font-bold mb-1`}>CInT</h1>
                 <p className="text-sm md:text-base text-amber-300 font-bold">Competitive Informatics Tournament</p>
                 <p className={`${jbm.className} text-slate-400 text-xs`}>Compete, Learn, and Win Prizes!</p>
