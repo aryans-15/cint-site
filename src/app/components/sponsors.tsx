@@ -35,7 +35,7 @@ export default function Sponsors() {
       </div>
       <div className="flex flex-col border-2 border-amber-800">
         <div className="p-2 bg-amber-800 text-slate-200">
-          <h1 className={`${jbm.className} text-lg`}>Silver</h1>
+          <h1 className={`${jbm.className} text-lg`}>Bronze</h1>
         </div>
         <div className="flex flex-row flex-wrap justify-center items-center p-4 bg-gray-600/3 gap-8">
           <a href="https://www.wegmans.com/" target='_blank'>
