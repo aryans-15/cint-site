@@ -18,28 +18,36 @@ export default function Schedule() {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>1:00 - 1:45 PM</td>
-                        <td>Registration</td>
-                    </tr>
-                    <tr>
-                        <td>1:45 - 2:00 PM</td>
+                        <td>1:30 - 1:50 PM</td>
                         <td>Opening Ceremony</td>
                     </tr>
                     <tr>
+                        <td>1:50 - 2:00 PM</td>
+                        <td>Team Finding</td>
+                    </tr>
+                    <tr>
                         <td>2:00 PM</td>
-                        <td>Tournament Begins</td>
+                        <td>Coding Begins</td>
                     </tr>
                     <tr>
-                        <td>6:00 PM</td>
-                        <td>Dinner</td>
+                        <td>2:10 - 2:40 PM</td>
+                        <td>Workshop #1</td>
                     </tr>
                     <tr>
-                        <td>7:30 PM</td>
+                        <td>2:40 - 3:10 PM</td>
+                        <td>Pizza & snacks</td>
+                    </tr>
+                    <tr>
+                        <td>3:20 - 3:50 PM</td>
+                        <td>Workshop #2</td>
+                    </tr>
+                    <tr>
+                        <td>4:00 PM</td>
+                        <td>Coding Ends</td>
+                    </tr>
+                    <tr>
+                        <td>4:10 - 4:30 PM</td>
                         <td>Closing Ceremony</td>
-                    </tr>
-                    <tr>
-                        <td>8:00 PM</td>
-                        <td>End of Event</td>
                     </tr>
                 </tbody>
             </table>
