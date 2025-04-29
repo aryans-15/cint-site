@@ -25,7 +25,7 @@ export default function About() {
             </p>
             <h1 className={`${jbm.className} text-amber-300 font-bold text-xl mt-4`}>Contest Rules</h1>
             <ul className='list-outside list-disc ml-4'>
-                <li className='list-item'>Groups of up to four are allowed, but each student must register individually.</li>
+                <li className='list-item'>Groups of up to three are allowed, but each student must register individually.</li>
                 <li className='list-item'>Students of all experience levels are welcome. There will be a beginner and advanced division.</li>
                 <li className='list-item'>Groups my be formed in advance, but time will be provided to create teams at the event.</li>
                 <li className='list-item'>Prizes will be awarded to individual members on winning teams.</li>
