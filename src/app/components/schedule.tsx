@@ -19,11 +19,11 @@ export default function Schedule() {
                 <tbody>
                     <tr>
                         <td>1:30 - 1:50 PM</td>
-                        <td>Opening Ceremony</td>
+                        <td>Team Finding</td>
                     </tr>
                     <tr>
                         <td>1:50 - 2:00 PM</td>
-                        <td>Team Finding</td>
+                        <td>Opening Ceremony</td>
                     </tr>
                     <tr>
                         <td>2:00 PM</td>
